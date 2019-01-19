@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Y- [] Todo boxes for today
 Use the left arrow to go back!
